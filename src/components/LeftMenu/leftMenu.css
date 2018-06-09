@@ -1,0 +1,28 @@
+#leftMenu {
+    width: 40%;
+    height: 900px;
+    /* position: fixed; */
+    float: left;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#aboutMeText{
+    font-size: 27px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+#aboutMeLabel{
+    margin-top: 30px;
+    position: relative;
+    padding-left: 80px;
+}
+
+
+#portfolioLabel {
+
+    position: relative;
+   
+
+}
